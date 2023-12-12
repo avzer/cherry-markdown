@@ -1,0 +1,9 @@
+{
+    "name": "avzer/cherry-markdown",
+    "type": "library",
+    "description": "A Markdown Editor",
+    "homepage": "https://github.com/Tencent/cherry-markdown",
+    "support": {
+        "issues": "https://github.com/Tencent/cherry-markdown/issues"
+    }
+}
